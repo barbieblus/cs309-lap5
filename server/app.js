@@ -8,7 +8,7 @@ app.use(cors());
 
 let department = [
   {
-    id: 2,
+    id: 1,
     name: "IT",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam nisi praesentium eligendi esse in sed, dolore voluptatibus architecto nihil animi voluptate ducimus dolorem consequuntur temporibus magni quam repellendus qui. ",
   },
