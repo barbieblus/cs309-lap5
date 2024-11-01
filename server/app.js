@@ -87,6 +87,7 @@ app.patch("/departments/:id", (req, res) => {
     ...req.body,
   };
   const index = department.indexOf(Fdepartment);
+
   department[index] = updatedDepartment;
   res
     .status(200)
